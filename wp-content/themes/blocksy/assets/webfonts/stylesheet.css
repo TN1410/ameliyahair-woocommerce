@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Serenity';
+    src: url('Serenity.eot');
+    src: url('Serenity.eot?#iefix') format('embedded-opentype'),
+        url('Serenity.woff2') format('woff2'),
+        url('Serenity.woff') format('woff'),
+        url('Serenity.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

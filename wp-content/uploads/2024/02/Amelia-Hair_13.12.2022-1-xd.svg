@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 13" width="40" height="13">
+	<title>Amelia Hair_13</title>
+	<defs>
+		<image width="43" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAARCAYAAABEvFULAAAAAXNSR0IArs4c6QAAAOJJREFUSEvV1S1Og2EQReFzLKaiWBJWQIIhgQQWwQKadAEILDsgJCCRQEBhwBTTbqGVbKAGARJ9yUv6IUj5kdNZwZObmTuyQuMKWSmBTbIH7Kunv4VXAtuASUbAQH37CVwJOwS21OPy2EW6T8C9er0MXCbZDpfkBhird9/Bn9gka8BGoWY4AnaAR+BWnTdbh90FrgphG2Ud6AFn6skXthIySUO24GbApfrS+UrtbJI+8AAcqq9Ld7ZKskmmwIH6XroNkpwDc/WidM8u2uhZ3Sz/bpNsA311Uh7735sp1QZ/oT8Aoeo/EptOBcMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Pfad 2" href="#img1" transform="matrix(1,0,0,1,-1,-2)"/>
+</svg>
